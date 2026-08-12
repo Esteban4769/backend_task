@@ -29,14 +29,6 @@ cd <project-folder>
 npm install
 ```
 
-### Environment Variables
-
-Copy `.env.example` to `.env` and fill in your own values:
-
-```bash
-cp .env.example .env
-```
-
 ### Running the app
 
 ##
