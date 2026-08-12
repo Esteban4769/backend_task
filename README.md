@@ -45,6 +45,14 @@ The API will be available at `http://localhost:3000`.
 2. Log in: `POST /login` with `{ "email", "password" }` to get a JWT
 3. Use the token in the `Authorization: Bearer <token>` header for protected routes
 
+# Admin credentials
+```bash
+  {
+    "email": "testadmin@mail.com",
+    "password": "adminpass321"
+  }
+```
+
 ## API Reference
 
 ### Auth
