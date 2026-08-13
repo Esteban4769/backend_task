@@ -16,11 +16,6 @@ A Node.js REST API with authentication and role-based authorization for managing
 
 ## Getting Started
 
-### Prerequisites
-
-- Node.js (v18+ recommended)
-- A SQL database (e.g. PostgreSQL)
-
 ### Installation
 
 ```bash
